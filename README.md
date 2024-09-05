@@ -11,4 +11,4 @@ Este projeto tem como objetivo criar uma aplicação web simples de busca utiliz
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://seu_repositorio.git
+   git clone https://github.com/rogerdgela/imersao-dev-alura.git
