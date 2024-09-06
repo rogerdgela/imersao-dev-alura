@@ -66,7 +66,7 @@ section button {
 
 /* Adiciona efeito hover ao botão de pesquisa */
 section button:hover {
-    background-color: #ec111c; /* Muda a cor de fundo ao passar o mouse */
+    background-color: #01c6fb; /* Muda a cor de fundo ao passar o mouse */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra mais intensa */
 }
 
@@ -110,6 +110,16 @@ section button:hover {
 .descricao-meta {
     color: #45474B; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
+}
+
+/* Estiliza os avisos dentro dos itens de resultado */
+.warning {
+    background: #fd9902f6; /* Cor de fundo dos itens */
+    border-radius: 0.6rem; /* Borda arredondada */
+    padding: 1rem; /* Espaçamento interno */
+    margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    color: #ffffff;
 }
 
 /* Estiliza o rodapé da página */
