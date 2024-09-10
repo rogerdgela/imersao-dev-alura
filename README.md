@@ -22,4 +22,4 @@ A aplicação "Skatistas do Mundo" é um buscador simples que permite aos usuár
 ## Como Usar
 1. **Clonar o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/rogerdgela/imersao-dev-alura-gemini.git
